@@ -1,4 +1,4 @@
-# BreweryDB WordPress Plugin
+# BreweryDB WordPress Plugin: BierWerx Fork
 Contributors: farrelley
 Donate link: http://www.brewerydb.com/
 Tags: beer, breweries, craft beer, craftbeer, brewerydb, pintlabs, beer library
@@ -9,6 +9,8 @@ Stable tag: 0.1.3
 The Brewery DB plugin allows you to display information in your posts about beers and breweries.
 
 ## Description
+
+The purpose of the BierWerx Fork is to experiment with tools to make working with this plugin more intuitive. The intention is to issue a pull request when complete to see if it can't be merged in with the root plugin.
 
 The Brewery DB plugin allows you to display information in your posts about beers and breweries.
 This plugin uses the Brewery DB API to retrieve data and you must register for a Brewery DB API Key at http://www.brewerydb.com/
